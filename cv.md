@@ -1,5 +1,5 @@
 # Kosmatenko Marina
-===
+
 # My contact info
 + Address: Moscow, Russia
 + Phone: 89114816666
@@ -12,7 +12,7 @@ I've never been a developer, but I want to learn Front-End Development in RSScho
 
 
 # Skills
-+ HTML&CSS
++ HTML, CSS
 + Figma
 + Photoshop  
 
@@ -29,7 +29,9 @@ alert( result );
 
 
 # Education:
-**University:** I.Kant Baltic Federal University 
+**University:** 
++ I.Kant Baltic Federal University
+
 **Courses:**
 + CSS, HTML, Git video courses on YouTube;
 + Courses on [code basics](https://ru.code-basics.com/)
@@ -38,3 +40,7 @@ alert( result );
 # Language
 + Russian - native speaker;
 + English - Pre-Intermediate;
+
+
+![logo](https://cdn.eventil.com/uploads/event/header_image/264758/card_original.jpg)
+
