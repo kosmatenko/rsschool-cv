@@ -33,7 +33,9 @@ ul {
     
   }
 
-  .main-container {
+  .main-container, 
+  .container-footer
+  .nav-list {
     display: flex;
     flex-wrap: wrap;
   }
@@ -52,7 +54,7 @@ ul {
   .nav-list {
     display: flex;
     justify-content: flex-end;
-    align-items: center;
+    align-items: center;  
     font-size: 20px;
   }
 
@@ -65,11 +67,12 @@ ul {
 
   .nav-item a {
     color: #800080	;
-    transition: 0.9s;
+    transition: 2s;
   }
 
   .nav-item a:hover {
     color: black;
+    text-decoration: underline 3px;
   }
 
 .foto-main {
